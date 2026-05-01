@@ -32,7 +32,7 @@ if($page == "home") {
     <img id="slide" src="https://uploads.onecompiler.io/44m8eb3ha/3xt4z3ws9/19066.jpg" width="500" height="300">
 
     <script>
-    var images = ["https://uploads.onecompiler.io/44m8eb3ha/3xt4z3ws9/19059.jpg", "https://uploads.onecompiler.io/44m8eb3ha/3xt4z3ws9/19066.jpg", "https://uploads.onecompiler.io/44m8eb3ha/3xt4z3ws9/19062.jpg"];
+    var images = [""https://uploads.onecompiler.io/44m8eb3ha/3xt4z3ws9/19062.jpg"];
     var i = 0;
 
     setInterval(function(){
